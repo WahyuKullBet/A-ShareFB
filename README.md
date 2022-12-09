@@ -10,8 +10,9 @@
 ➠pip install bs4
 ➠pip install rich
 ➠cd A-ShareFB
+➠git pull
 ➠ls
-➠pyhton share.py
+➠pyhton main.py
 ```
 >Ini Result
 ![Screenshot_2022-12-10-01-51-09-344_com termux](https://user-images.githubusercontent.com/115902571/206775276-d1b6597e-344f-4e3b-ac6d-d9372526ba90.png)
