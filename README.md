@@ -25,4 +25,6 @@ $ pyhton share.py
 
 ***Apabila Share Post Sudah Tidak Berjalan Namun Di Termux Masih Berjalan, Kemungkinan Akun Tumbal Terkena Limit Dan Di Sarankan Untuk Mengganti Cookie Yang Baru***
 
->Untuk Mengganti Cookie Ketik Ctrl + z Lalu Jalankan Ulang Scriptnya
+>Untuk Mengganti Cookie 
+Ketik Ctrl + z 
+Lalu Jalankan Ulang Scriptnya
