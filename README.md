@@ -2,16 +2,16 @@
 # Tools Auto Share Post Facebook
 
 ```
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pkg install git
-$ git clone https://github.com/WahyuKullBet/A-ShareFB
-$ pip install requests
-$ pip install bs4
-$ pip install rich
-$ cd A-ShareFB
-$ ls
-$ pyhton share.py
+➠pkg update && pkg upgrade
+➠pkg install python
+➠pkg install git
+➠git clone https://github.com/WahyuKullBet/A-ShareFB
+➠pip install requests
+➠pip install bs4
+➠pip install rich
+➠cd A-ShareFB
+➠ls
+➠pyhton share.py
 ```
 >Ini Result
 ![Screenshot_2022-12-10-01-51-09-344_com termux](https://user-images.githubusercontent.com/115902571/206775276-d1b6597e-344f-4e3b-ac6d-d9372526ba90.png)
